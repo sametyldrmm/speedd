@@ -1,0 +1,3 @@
+/home/samet/Desktop/calculate_pid/build/CMakeFiles/program.dir
+/home/samet/Desktop/calculate_pid/build/CMakeFiles/edit_cache.dir
+/home/samet/Desktop/calculate_pid/build/CMakeFiles/rebuild_cache.dir
